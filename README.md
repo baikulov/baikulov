@@ -1,5 +1,7 @@
 # Hi there 👋
 
+### Технологии, языки и инструменты
+<img align="left" alt="docker" width="26px" src="./src/docker.png" />
 
 ### 🔭 I’m currently working on:
 - [Instructions for users](https://github.com/baikulov/instructions/blob/master/Readme.md)
