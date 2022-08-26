@@ -11,11 +11,11 @@
 <img align="left" alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-151719?style=plastic&logo=docker" />
 <img align="left" alt="Airflow" title="Airflow" src="https://img.shields.io/badge/Airflow-151719?style=plastic&logo=Apache Airflow" />
 <img align="left" alt="DBT" title="DBT" src="https://img.shields.io/badge/dbt-151719?style=plastic&logo=dbt" />
-<img align="left" alt="Google Analytics" title="Google Analytics" src="https://img.shields.io/badge/Google Analytics-151719?style=plastic&logo=Google Analytics" />
+<img align="left" alt="Google Analytics" title="Google Analytics" src="https://img.shields.io/badge/Google_Analytics-151719?style=plastic&logo=Google Analytics" />
 <img align="left" alt="ClickHouse" title="ClickHouse" src="https://img.shields.io/badge/ClickHouse-151719?style=plastic&logo=ClickHouse" />
-<img align="left" alt="Power BI" title="Power BI" src="https://img.shields.io/badge/Power BI-151719?style=plastic&logo=Power BI
+<img align="left" alt="Power BI" title="Power BI" src="https://img.shields.io/badge/Power_BI-151719?style=plastic&logo=Power BI
 " />
-<img align="left" alt="Google Tag Manager" title="Google Tag Manager" src="https://img.shields.io/badge/Google Tag Manager-151719?style=plastic&logo=Google Tag Manager
+<img align="left" alt="Google Tag Manager" title="Google Tag Manager" src="https://img.shields.io/badge/Google_Tag_Manager-151719?style=plastic&logo=Google Tag Manager
 " />
 
 <br/>
