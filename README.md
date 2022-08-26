@@ -13,10 +13,10 @@
 <img align="left" alt="DBT" title="DBT" src="https://img.shields.io/badge/dbt-151719?style=plastic&logo=dbt" />
 <img align="left" alt="Google Analytics" title="Google Analytics" src="https://img.shields.io/badge/Google_Analytics-151719?style=plastic&logo=GoogleAnalytics" />
 <img align="left" alt="ClickHouse" title="ClickHouse" src="https://img.shields.io/badge/ClickHouse-151719?style=plastic&logo=ClickHouse" />
-<img align="left" alt="Power BI" title="Power BI" src="https://img.shields.io/badge/Power_BI-151719?style=plastic&logo=PowerBI
-" />
-<img align="left" alt="Google Tag Manager" title="Google Tag Manager" src="https://img.shields.io/badge/Google_Tag_Manager-151719?style=plastic&logo=GoogleTagManager
-" />
+
+<img align="left" alt="Power BI" title="Power BI" src="https://img.shields.io/badge/Power_BI-151719?style=plastic&logo=PowerBI" />
+
+<img align="left" alt="Google Tag Manager" title="Google Tag Manager" src="https://img.shields.io/badge/Google_Tag_Manager-151719?style=plastic&logo=GoogleTagManager" />
 
 <br/>
 <br/>
