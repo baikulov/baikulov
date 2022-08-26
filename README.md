@@ -1,14 +1,16 @@
 # Приветствую 👋
+
 ## Меня зовут Байкулов Антон. Я специалист по данным.
 
 Последние 5 лет работаю на стыке веб-данных и бизнеса. В свободное время изучаю смежные интрументы и технологии.
 
 ### 🔭 В текущий момент работаю над
 - [Instructions for users](https://github.com/baikulov/instructions/blob/master/Readme.md)
-
-
+- [Flatten GA4](https://github.com/baikulov/instructions/blob/master/Readme.md)
+- [GTM schema](https://github.com/baikulov/instructions/blob/master/Readme.md)
 
 ## Технологии, языки и инструменты
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baikulov&layout=compact&theme=radical)](https://github.com/baikulov/github-readme-stats)
 
 ### Текущий стек
 <img align="left" alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-151719?style=plastic&logo=html5" />
@@ -33,9 +35,7 @@
 <br/>
 <br/>
 
-### 🔭 I’m currently working on:
-- [Instructions for users](https://github.com/baikulov/instructions/blob/master/Readme.md)
-
+## 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -44,5 +44,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Baikulov GitHub stats](https://github-readme-stats.vercel.app/api?username=baikulov&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baikulov&layout=compact&theme=radical)](https://github.com/baikulov/github-readme-stats)
+
+    ![Baikulov GitHub stats](https://github-readme-stats.vercel.app/api?username=baikulov&show_icons=true&theme=radical)
