@@ -4,8 +4,8 @@
 Последние 5 лет работаю на стыке веб-данных и бизнеса. В свободное время изучаю смежные интрументы и технологии.
 
 ### 🔭 В текущий момент работаю над
-- [Instructions for users](https://github.com/baikulov/instructions/blob/master/Readme.md)
-- [Flatten GA4](https://github.com/baikulov/instructions/blob/master/Readme.md)
+- [Instructions for users](https://github.com/baikulov/instructions)
+- [Flatten GA4](https://github.com/baikulov/ga4_dbt)
 - [GTM events schema](https://github.com/baikulov/events_schema_example)
 
 ## Технологии, языки и инструменты
@@ -35,6 +35,4 @@
 <br/>
 
 ## Статистика
-
-
-    ![Baikulov GitHub stats](https://github-readme-stats.vercel.app/api?username=baikulov&show_icons=true&theme=radical)
+[Baikulov GitHub stats](https://github-readme-stats.vercel.app/api?username=baikulov&show_icons=true&theme=radical)
