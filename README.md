@@ -6,7 +6,7 @@
 ### 🔭 В текущий момент работаю над
 - [Instructions for users](https://github.com/baikulov/instructions/blob/master/Readme.md)
 - [Flatten GA4](https://github.com/baikulov/instructions/blob/master/Readme.md)
-- [GTM schema](https://github.com/baikulov/instructions/blob/master/Readme.md)
+- [GTM events schema](https://github.com/baikulov/events_schema_example)
 
 ## Технологии, языки и инструменты
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baikulov&layout=compact&theme=radical)](https://github.com/baikulov/github-readme-stats)
